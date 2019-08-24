@@ -5,8 +5,8 @@
 This repository contains the GameMonetize.com SDK for HTML5 Construct 2 games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
 
 # STEP 1:
-<a href="https://drive.google.com/file/d/1X787o5fJ6j5I3v0N4C8P_ZDmqjcguTCA/">Download the plugin</a> and extract the file to C:\Program Files\Construct 2\exporters\html5\plugins
-<p>Download here: <a href="https://drive.google.com/file/d/1X787o5fJ6j5I3v0N4C8P_ZDmqjcguTCA/">https://drive.google.com/file/d/1X787o5fJ6j5I3v0N4C8P_ZDmqjcguTCA/</a></p>
+<a href="https://drive.google.com/file/d/1J9v7b0jbiH7RtdBhcvUfA0bCct8w6ct8/>Download the plugin</a> and extract the file to C:\Program Files\Construct 2\exporters\html5\plugins
+<p>Download here: <a href="https://drive.google.com/file/d/1J9v7b0jbiH7RtdBhcvUfA0bCct8w6ct8/">https://drive.google.com/file/d/1J9v7b0jbiH7RtdBhcvUfA0bCct8w6ct8/</a></p>
 
 # STEP 2:
 Select the new plugin within Construct 2 by right-clicking on Object Types and insert your gameId in the properties tab.
