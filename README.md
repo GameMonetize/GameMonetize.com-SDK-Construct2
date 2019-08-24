@@ -14,7 +14,7 @@ You can find these values within your GameMonetize control panel after creating 
 
 # STEP 3:
 Right-click Object types in the 'Projects' tab, select Insert New Object and select 'GameMonetize' in the 'Monetization' category.
-<p><img src="https://distributegames.com/images/construct/construct1.png"  width="800" alt=""></p>
+<p><img src="https://gamemonetize.com/images/construct/construct1.png"  width="800" alt=""></p>
 
 # STEP 4:
 Click 'GameMonetize' and insert your GameId in from your account on game
